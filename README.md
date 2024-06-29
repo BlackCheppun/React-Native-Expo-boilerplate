@@ -38,8 +38,8 @@ The folder structure of this boilerplate is organized as follows:
 |    ├── services              # Services (e.g., API calls)
 |    ├── types                 # All of your interfaces/types/colors..etc , that you will configure and use.
 |    └── utils                 # A bunch of functions that are not specific to any context/usecase, such as timeformatters, email validation ... etc.
-├── App.tsx                      # Entry point of the application
-└── package.json                 #  Project dependencies and scripts
+├── App.tsx                    # Entry point of the application
+└── package.json               #  Project dependencies and scripts
 ```
 
 ## Getting Started
