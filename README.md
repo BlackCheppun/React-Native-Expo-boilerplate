@@ -1,6 +1,6 @@
-# React Native Boilerplate with Expo Go, Redux, and Axios
+# React Native Typescript Boilerplate with Expo Go, Redux, and Axios
 
-Welcome to the React Native Expo Boilerplate ! This project is a starter template that uses Expo Go, Redux, and Axios. It also includes a pre-configured folder structure to help you get started quickly with your React Native application development.
+Welcome to the React Native Expo Boilerplate ! This project is a Typescript starter template that uses Expo Go, Redux, and Axios. It also includes a pre-configured folder structure to help you get started quickly with your React Native application development.
 
 ## Table of Contents
 
@@ -53,7 +53,6 @@ Make sure you have the following tools installed on your system:
 - [Node.js](https://nodejs.org/) (LTS version recommended)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 - [Git](https://git-scm.com/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ### Installation
 
